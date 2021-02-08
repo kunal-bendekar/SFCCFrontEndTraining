@@ -1,0 +1,6 @@
+node_modules/
+app_storefront_core/cartridge/static/default/css/style.css
+app_storefront_core/cartridge/static/default/js/app.js
+app_storefront_core/cartridge/static/default/js/app.js.map
+.vscode/
+.gitignore
